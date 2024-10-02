@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Selcaster
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI(ym)
 - 🌱 I’m currently learning back-end
 - 💞️ I’m looking to collaborate on CFF
 - 😄 Pronouns: She/Her
